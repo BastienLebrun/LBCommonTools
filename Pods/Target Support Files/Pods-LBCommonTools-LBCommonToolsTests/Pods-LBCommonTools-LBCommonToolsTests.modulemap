@@ -1,0 +1,6 @@
+framework module Pods_LBCommonTools_LBCommonToolsTests {
+  umbrella header "Pods-LBCommonTools-LBCommonToolsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
