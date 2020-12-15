@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Specify the location from where the source should be retrieved.
   #  Supports git, hg, bzr, svn and HTTP.
   #
-
+  
   spec.source       = { :git => "https://github.com/BastienLebrun/LBCommonTools.git",
   						:tag => "#{spec.version}" }
 
